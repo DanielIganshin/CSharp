@@ -12,3 +12,18 @@
 /Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson 1/Task1/obj/Debug/net8.0/Task1.pdb
 /Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson 1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson 1/Task1/obj/Debug/net8.0/ref/Task1.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
