@@ -1,0 +1,15 @@
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/bin/Debug/net8.0/Task4
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/bin/Debug/net8.0/Task4.deps.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/bin/Debug/net8.0/Task4.runtimeconfig.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/bin/Debug/net8.0/Task4.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/bin/Debug/net8.0/Task4.pdb
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.csproj.CoreCompileInputs.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.sourcelink.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/refint/Task4.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.pdb
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/Task4.genruntimeconfig.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Lesson1/Task4/obj/Debug/net8.0/ref/Task4.dll
